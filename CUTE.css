@@ -1,0 +1,25 @@
+{
+/*margin:0;
+padding:0;
+ */
+    box-sizing: border-box;
+
+    box-sizing: border-box;
+    list-style:none;
+}
+img{
+    height:300px;
+    width:450px;
+
+}
+
+
+.img-start {
+    border: 3px solid Lime ;
+}
+#img-start-id {
+    border: 3px solid pink;
+}
+.img-end{
+    border: 3px  solid skyblue;
+}
